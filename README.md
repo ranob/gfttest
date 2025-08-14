@@ -1,6 +1,6 @@
 # Price Service - Inditex Tech Test
 
-[![Java CI with Maven](https://github.com/ranob/testgft/actions/workflows/build.yml/badge.svg)](https://github.com/ranob/testgft/actions/workflows/build.yml)
+[![Java CI with Maven](https://github.com/ranob/gfttest/actions/workflows/build.yml/badge.svg)](https://github.com/ranob/gfttest/actions/workflows/build.yml)
 
 This project implements a REST service to query product prices, following the requirements of the Inditex technical test.
 
